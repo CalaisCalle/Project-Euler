@@ -1,7 +1,7 @@
 # My Attempts at Problems From Project Euler
 
 ## What/Why?
-[https://projecteuler.net/](Project Euler) is a series of mathematical and computational problems requiring a combination of both skills to solve.
+[Project Euler](https://projecteuler.net/) is a series of mathematical and computational problems requiring a combination of both skills to solve.
 The website was first recommended to me by a colleague and I decided to give it a go.
 With a bit of luck, it will help me to improve in both areas.
 
@@ -25,6 +25,6 @@ I tend to procrastinate a bit, and even more outside of work: there's a good cha
 
 ## Who?
 
-I'm [https://www.linkedin.com/in/max-calle/](Max Callé), a Graduate Software Developer for AudioTelligence, who specialise in hearing assistance through Blind Source Separation (BSS).
+I'm [Max Callé](https://www.linkedin.com/in/max-calle/), a Graduate Software Developer for AudioTelligence, who specialise in hearing assistance through Blind Source Separation (BSS).
 My background is mostly in Physics, since it was my Bacheror's degree; this is also where I first learned Python.
 Thanks to that part of my life, I have a half-decent understanding of maths already.
