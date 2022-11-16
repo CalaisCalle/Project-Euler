@@ -17,10 +17,12 @@ def is_prime(n):
     else:
         return True
 
-val = 600851475143
-val_sqrt = int(600851475143 ** 0.5)
+def find_factors(val):
+    i = 3
+    while val != 1:
+        if is_prime(i) and val % i == 0:
+            yield i
+            val /= i
+        i+=2
 
-candidates = [a for a in range(1, val, 2) if val_sqrt % a == 0]
-primes = [c for c in candidates if is_prime(c)]
-
-print(primes)
+print(max(list(find_factors(600851475143))))
