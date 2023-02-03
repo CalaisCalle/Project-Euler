@@ -12,7 +12,7 @@ Thought process
 
 First: the prime numbers have to be included in the multiplication
 
-Then: the highest power of each prime is all that needs to be include
+Then: the highest power of each prime is all that needs to be included
 as this will contain all necessary multiples of that prime.
 
 The primes can be substituted for their highest powers.
